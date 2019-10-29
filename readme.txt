@@ -1,4 +1,4 @@
-This is the Readme for running the Big Data Assignment 1 by APJ180001.
+This is the Readme for running the Big Data Project
 1.Start the hadoop by typing start-dfs.sh in the terminal.
 2.Visit the webpage at http://localhost:50070.
 3.If the webpage is not available, means all the nodes are not started.
